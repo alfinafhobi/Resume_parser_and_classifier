@@ -114,7 +114,7 @@ This project demonstrates the potential of natural language processing (NLP) and
 
 ## Results
 
-- Achieved **X% accuracy** on the test set.
+- Achieved **98.9% accuracy** on the test set.
 - Successfully classified resumes into **23 predefined job categories**.
 - Visualized category distribution and parsing outputs.
 
